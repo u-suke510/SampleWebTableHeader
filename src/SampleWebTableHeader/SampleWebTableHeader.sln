@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebTableHeader", "SampleWebTableHeader\SampleWebTableHeader.csproj", "{70E2BC6C-892B-4EB3-BD8A-4D1A7E673714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E2BC6C-892B-4EB3-BD8A-4D1A7E673714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E2BC6C-892B-4EB3-BD8A-4D1A7E673714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E2BC6C-892B-4EB3-BD8A-4D1A7E673714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E2BC6C-892B-4EB3-BD8A-4D1A7E673714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F80EC50-E8B2-4A7E-B4B4-4B8FFD5A96DA}
+	EndGlobalSection
+EndGlobal
